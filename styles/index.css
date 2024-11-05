@@ -56,3 +56,6 @@ footer {
   height: 500px;
   background-size: cover;
 }
+iframe {
+  margin-right: 40px;
+}
